@@ -1,0 +1,6 @@
+img {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    max-width: 650px;
+}
